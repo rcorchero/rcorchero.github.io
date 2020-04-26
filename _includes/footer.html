@@ -1,0 +1,26 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="footer-bottom">
+          <div class="copyright">
+            <p><a href="{{site.baseurl}}/">rcorchero.com</a> &copy; {{site.time | date: '%Y'}} - Galada Theme by <a href="https://github.com/artemsheludko">Artem Sheludko</a></p>
+          </div>
+          <div class="footer-social">
+            <ul class="list-reset">
+              {% if site.twitter %}
+              <li><a href="{{ site.twitter }}">Twitter</a></li>
+              {% else %} {% endif %}
+              {% if site.twitter %}
+              <li><a href="{{ site.github }}">GitHub</a></li>
+              {% else %} {% endif %}
+              {% if site.twitter %}
+              <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
+              {% else %} {% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer> <!-- /.footer -->
