@@ -11,7 +11,7 @@ Hace ya un tiempo que quería realizar un proyecto como el que voy a comentar a 
 
 <h2>:triangular_ruler: ¿Pero, que es Clean Architecture?</h2>
 
-Hace ya unos años, allá por 2012, Robert C. Martin publica un [post][uncle-bob] donde propone una nueva arquitectura para estructurar los proyectos de software, que rápidamente va ganando adeptos y se convierte en un referente para la comunidad.
+Hace ya unos años, allá por 2012, Robert C. Martin publica un [post][uncle-bob]{:target="_blank"} donde propone una nueva arquitectura para estructurar los proyectos de software, que rápidamente va ganando adeptos y se convierte en un referente para la comunidad.
 {: .text-justify}
 
 ![]({{site.baseurl}}/img/clean.jpg)
@@ -19,7 +19,7 @@ Hace ya unos años, allá por 2012, Robert C. Martin publica un [post][uncle-bob
 Este tipo de arquitectura permite desacoplar el código es capas distintas, que nos ayudarán a tener un proyecto más organizado, fácil de modificar y de testear. En una aplicación Android, este tipo de arquitecture se puede plantear de varias maneras, esto es por módulos o por paquetes. En este proyecto partiremos de una división en módulos por capas (data, domain, presentation y app), y después estudiaremos otras alternativas que pueden mejorar la arquitectura inicial (como la división por features).
 {: .text-justify}
 
-Ya que pretendo presentar una visión más práctica que teórica en estos posts, si queréis encontrar más información sobre Clean Architecture en Android, podéis revisar la [serie de posts][fernando-cejas] de Fernando Cejas sobre el tema, o en [este otro][antonio-leiva] de Antonio Leiva, en los cuales veréis me he inspirado para la realización del proyecto.
+Ya que pretendo presentar una visión más práctica que teórica en estos posts, si queréis encontrar más información sobre Clean Architecture en Android, podéis revisar la [serie de posts][fernando-cejas]{:target="_blank"} de Fernando Cejas sobre el tema, o en [este otro][antonio-leiva]{:target="_blank"} de Antonio Leiva, en los cuales veréis me he inspirado para la realización del proyecto.
 {: .text-justify}
 
 <h2>:tv: TheTV, una app para saber más de tus series</h2>
@@ -37,7 +37,7 @@ Para ello, empezaré por una primera iteracción del proyecto donde establecerem
 
 La aplicación funcionará también offline y estará completamente testada.
 
-Para obtener los datos nos basaremos el API de [The Movie Database.][tmdb]
+Para obtener los datos nos basaremos el API de [The Movie Database.][tmdb]{:target="_blank"}
 
 Esta primera parte de la aplicación tendrá una pinta como esta:
 

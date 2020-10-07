@@ -14,7 +14,7 @@ encontramos en estos primeros meses de 2020 (espero volver a leer esto en un tie
 {: .text-justify}
 
 Para quien no me conozca me llamo Roberto Corchero Aragón, soy ingeniero de Software y me dedico al desarrollo
-de aplicaciones Android, actualmente en [Fintonic][fintonic]. En mis ratos libres me gusta viajar (aunque ahora ya sabeis...), la fotografía, y por supuesto también seguir investigando y desarrollando por mi cuenta :sweat_smile:.
+de aplicaciones Android, actualmente en [Fintonic][fintonic]{:target="_blank"}. En mis ratos libres me gusta viajar (aunque ahora ya sabeis...), la fotografía, y por supuesto también seguir investigando y desarrollando por mi cuenta :sweat_smile:.
 
  Soy afortunado al decir que me encanta mi profesión, y pese a que los que nos dedicamos a esto sabemos que a
 veces puede llegar a ser frustante, disfrutar del proceso de desarrollo es algo muy gratificante.

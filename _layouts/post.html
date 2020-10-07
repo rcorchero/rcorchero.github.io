@@ -35,6 +35,9 @@ layout: default
 								<time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
 							</span>
 						</div>
+						<div class="post-reading-time">
+							<span>{% include reading-time.html %}</span>
+						</div>
 					</div>
 				</div>
 
